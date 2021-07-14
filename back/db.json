@@ -1,0 +1,17 @@
+{
+    "message" : "success",
+    "data" : [
+        { 
+            "id" : 1,
+            "name" : "minsu"
+        },
+        {
+            "id" : 2,
+            "name" : "sanghyeon"
+        },
+        {
+            "id" : 3,
+            "name" : "daegon"
+        }
+    ]
+}
